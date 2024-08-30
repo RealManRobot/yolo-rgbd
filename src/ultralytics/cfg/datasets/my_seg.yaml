@@ -1,0 +1,15 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: D:\kassa_code\jingbiao_aign\split_rgb
+train: images/train
+val: images/val
+test: images/test
+path2: D:\kassa_code\jingbiao_aign\split_d
+train2: images/train
+val2: images/val
+test2: images/test
+
+
+# Classes
+names:
+  0: Fang_Kuai
+  1: Hao_Li_You

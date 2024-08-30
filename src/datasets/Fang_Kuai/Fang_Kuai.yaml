@@ -1,0 +1,8 @@
+names:
+- Fang_Kuai
+path: D:\sherlock\realeye\new_dataset\Fang_Kuai\rgb
+path2: D:\sherlock\realeye\new_dataset\Fang_Kuai\d
+train: images/train
+train2: images/train
+val: images/val
+val2: images/val
